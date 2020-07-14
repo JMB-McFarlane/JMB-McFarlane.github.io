@@ -9,4 +9,7 @@ My name is James McFarlane and I've been a PhD candidate/student since 2014 with
 
 This blog post isn't a cry for help. I hope to introduce you to not only who I am but what it is that I hope to accomplish by starting this blog. 
 
+- List_item 1
+- List_item 2
+
 
