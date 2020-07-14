@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons Learned and Unlearned — Confessions of an Incipient PhD Graduate
+title: Confessions of an Incipient PhD Graduate
 ---
 
 Hello World,
