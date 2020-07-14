@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PhD candidate and struggling tinkerer in the field of computer-assisted drug design. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Not much more at this time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mcfarlane.james.mb@gmail.com](mailto:mcfarlane.james.mb@gmail.com)
