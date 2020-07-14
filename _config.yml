@@ -17,19 +17,19 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: #
   email: mcfarlane.james.mb@gmail.com
-  facebook:
-  flickr:
+  facebook: #
+  flickr: #
   github: JMB-McFarlane
-  instagram:
+  instagram: #
   linkedin: www.linkedin.com/in/james-mcfarlane-molsim
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @jamesmbmc
-  stackoverflow: 
-  youtube: 
-  googleplus: 
+  twitter: jamesmbmc
+  stackoverflow: #
+  youtube: #
+  googleplus:  #
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
