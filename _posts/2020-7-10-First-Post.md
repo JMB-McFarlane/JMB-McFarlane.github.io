@@ -11,6 +11,7 @@ My name is James McFarlane and I've been a PhD candidate/student since 2014 with
   <img src="/images/48dcag.jpg)" />
 </p>
 
+<p align="center">
 ![_config.yml]({{ site.baseurl }}/images/48dcag.jpg)
-
+</p>
 It feels as if I know less now than when I started, but I know this cannot possibly be true — sentiments associated with the rampantly prevalent condition in academia known as [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Although this might just be a product of knowing now how little I actually know.
