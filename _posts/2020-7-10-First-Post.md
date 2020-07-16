@@ -15,7 +15,7 @@ This blog will be the first of many to try to relearn key skills and concepts in
 
 It feels as if I know less now than when I started, but I know this cannot possibly be true — sentiments associated with the rampantly prevalent condition in academia known as [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Although this might just be a product of knowing now how little I actually know.
 
-Seven Rules for Achieving No Impact (and how I basically did exactly this)
+Seven Rules for Achieving No Impact (and how I basically did exactly this):
 
 1. Focus on concepts you understand
 2. Use computational tools uncritically
