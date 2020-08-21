@@ -29,4 +29,4 @@ Seven Rules for Achieving No Impact (and how I've been guilty of doing every one
 6. Disregard detail
 7. Be a hindsight expert
 
-The next blog will address this list and the lessons learned behind making each of these mistakes. I wil also be diving into how I've rectified them or plan to do so in the future. I look forward to documenting my next journey as a postdoc with you all and sharing the lessons learned on the way. 
+The next blog will address this list and the lessons learned behind making each of these mistakes. I will also be diving into how I've rectified them or plan to do so in the future. I look forward to documenting my next journey as a postdoc with you all and sharing the lessons learned on the way. 
