@@ -5,7 +5,7 @@ title: Confessions of a Recent PhD Graduate
 
 Hello World
 
-My name is James McFarlane and I've been a PhD candidate/student since 2014. Six long years of courses, teaching, starting projects, finishing projects, and looking back at unfinished projects has left me wondering about the skills that I've actually acquired over this time. Moreover, if I was to go back and do it again, how would I do things differently? This blog will be the first of many to try to relearn key skills and concepts in the field of computer-assisted drug design and biomolecular simulations. In addition to these things, I hope to touch on topics such as best practices, mentorship, and other facets of being a graduate student that should be addressed at the start of a graduate science degree. 
+My name is Dr.\James McFarlane and I was a PhD candidate/student from 2014 to 2020. Six long years of courses, teaching, starting projects, finishing projects, and looking back at unfinished projects has left me wondering about the skills that I've actually acquired over this time. Moreover, if I was to go back and do it again, how would I do things differently? This blog will be the first of many to try to relearn key skills and concepts in the field of computer-assisted drug design and biomolecular simulations. In addition to these things, I hope to touch on topics such as best practices, mentorship, and other facets of being a graduate student that should be addressed at the start of a graduate science degree. 
 
 <p align="center">
   <img src="/images/48dcag.jpg" />
