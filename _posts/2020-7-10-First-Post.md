@@ -15,7 +15,9 @@ It feels as if I know less now than when I started, but I know this cannot possi
 
 There is great beauty in crossing the line into "knowing" from "knowing of". The late Richard Feynmann tells stories of how his father takes him for walks in the woods and points to a bird. "What is the name of this bird?", he would say. He would then list several names of the bird in various languages and remark that knowing all the names in the world for that bird would tell you nothing about the bird. In my PhD, the discovery of new concepts were always best enjoyed through application and an understanding of the scope and imagining how they could be applied to something else. Take for example a molecular simulation technique applied to a very specific problem: Understanding the mechanisms underlying the method and how it can be applied to a different system to glean information previously inaccessible. Over the past several years, Feymann's birds has been a motivator in looking beyond the facade of a body of knowledge and to at least let me acknowledge when I don't know something, but make that space for when I am ready to fully dive in. 
 
+Had enough of this esoteric bologna? Me too. 
 
+If you are reading this as a graduate student, I have some more concrete things to share with you. Throughout your degree, you will hopefully come across several mentors that will make a profound impact on your life as well as how you conduct yourself as a teacher and a scientist. I was incredible grateful to have a wonderful supervisor and have brushed shoulders with some of the most insightful people of my field who were willing to share their experiences. I've learned kindess, compassion, professional discourse, and the ability to navigate the academic world as a scientist. Equally important, and through the strugggle of first hand experience, I have learned the many pitfalls of how to devalue your work. Not to say the work I have produced has no value; there were just many opportunities to elevate it to the next level. I'd like to share with you a short list (Thank you, Martin) that was presented to a group of postdocs and grad students during a Gordon Research Conference in 2015:
 
 Seven Rules for Achieving No Impact (and how I've been guilty of doing every one of these at least once):
 
@@ -26,3 +28,5 @@ Seven Rules for Achieving No Impact (and how I've been guilty of doing every one
 5. Avoid comparison to experimental data
 6. Disregard detail
 7. Be a hindsight expert
+
+Focus on concepts you understand. To do this goes back to the concerns with labels and the missed opportunities. Even within your field, the blinders put on to avoid trying new methodologies 
