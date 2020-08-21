@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-PhD candidate and struggling tinkerer in the field of computer-assisted drug design. 
+PhD graduate and struggling tinkerer in the field of computer-assisted drug design. 
 
 ### More Information
 
-Not much more at this time.
+Burning Man lover and steak enthusiast.
 
 ![_config.yml]({{ site.baseurl }}/images/running.png)
 
