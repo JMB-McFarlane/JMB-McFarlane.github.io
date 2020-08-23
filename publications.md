@@ -7,6 +7,7 @@ permalink: /publications/
 Under construction!
 
 <table>
+td.description {vertical-align: center;}
 <colgroup>
 <col width="30%" />
 <col width="70%" />
