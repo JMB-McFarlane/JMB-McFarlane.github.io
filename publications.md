@@ -21,7 +21,7 @@ Under construction!
 <tbody>
 <tr>
 <td markdown="span" valign="top"><img src="/images/slice.gif"></td>
-<td markdown="span" valign="top"> [Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method](http://google.com)</td>
+<td markdown="span" valign="top"> [Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method](http://google.com)<br><br><br></td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
