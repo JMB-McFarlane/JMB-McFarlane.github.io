@@ -9,7 +9,7 @@ Coming soon
 <table style="width:100%">
   <tr>
     <td><img src="/images/slice.gif" width="50%" height="50%"></td>
-    <td>Publication1</td>
+    <td>Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
   </tr>
   <tr>
     <td>Image2</td>
