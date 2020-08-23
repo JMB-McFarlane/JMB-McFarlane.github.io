@@ -9,7 +9,7 @@ Coming soon
 <table style="width:100%">
   <tr>
     <td>Image1</th>
-    <td>Publication1</th>
+    <td>Publication1</td>
   </tr>
   <tr>
     <td>Image2</td>
