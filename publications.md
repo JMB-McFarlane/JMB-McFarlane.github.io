@@ -7,7 +7,6 @@ permalink: /publications/
 Coming soon
 
 <table style="width:100%">
-  <caption>Publications</caption>
   <tr>
     <td>Image1</th>
     <td>Publication1</th>
@@ -20,4 +19,3 @@ Coming soon
     <td>Image3</td>
     <td>Publication3</td>
   </tr>
-</table>
