@@ -20,8 +20,8 @@ Under construction!
 </thead>
 <tbody>
 <tr>
-<td valign="middle"><img src="/images/slice.gif"></td>
-<td valign="middle">Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
+<td vertical-align="middle"><img src="/images/slice.gif"></td>
+<td vertical-align="middle">Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
@@ -30,10 +30,3 @@ Under construction!
 </tr>
 </tbody>
 </table>
-
-
-|ID|Name|Value|
-|------|---|-----|
-|<img src="/images/slice.gif">|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
-|002|Super Fund<!-- .element: style="text-align:center;" -->|1,2280.00<!-- .element: style="text-align:right;" -->|
-|003|Big Savings Bank<!-- .element: style="text-align:center;" -->|430.00<!-- .element: style="text-align:right;" -->|
