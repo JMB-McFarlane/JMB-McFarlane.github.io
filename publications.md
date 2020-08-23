@@ -33,7 +33,7 @@ Coming soon
 </thead>
 <tbody>
 <tr>
-<td markdown="span"><img src="/images/slice.gif" width="50%" height="50%"></td>
+<td markdown="span"><img src="/images/slice.gif"></td>
 <td markdown="span"> [Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method](http://google.com)</td>
 </tr>
 <tr>
