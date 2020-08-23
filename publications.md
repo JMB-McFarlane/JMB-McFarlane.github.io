@@ -20,8 +20,8 @@ Under construction!
 </thead>
 <tbody>
 <tr>
-<td vertical-align="middle"><img src="/images/slice.gif"></td>
-<td vertical-align="middle">Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
+<td vertical-align:middle><img src="/images/slice.gif"></td>
+<td vertical-align:middle>Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
