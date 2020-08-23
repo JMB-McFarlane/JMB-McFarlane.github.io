@@ -7,7 +7,7 @@ permalink: /publications/
 Under construction!
 
 <table>
-td.description {vertical-align: middle;}
+
 <colgroup>
 <col width="30%" />
 <col width="70%" />
@@ -20,8 +20,8 @@ td.description {vertical-align: middle;}
 </thead>
 <tbody>
 <tr>
-<td markdown="span"><img src="/images/slice.gif"></td>
-<td markdown="span"> [Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method](http://google.com)</td>
+<td markdown="span" valign="top"><img src="/images/slice.gif"></td>
+<td markdown="span" valign="top"> [Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method](http://google.com)</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
