@@ -19,3 +19,6 @@ Coming soon
     <td>Image3</td>
     <td>Publication3</td>
   </tr>
+
+
+| <img src="/images/slice.gif" width="50%" height="50%"> | Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method |
