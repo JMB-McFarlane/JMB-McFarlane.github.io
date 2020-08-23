@@ -8,7 +8,7 @@ Coming soon
 
 <table style="width:100%">
   <tr>
-    <td>Image1</th>
+    <td><img src="/images/slice.gif" /></td>
     <td>Publication1</td>
   </tr>
   <tr>
