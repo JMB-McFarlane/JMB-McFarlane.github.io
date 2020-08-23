@@ -34,6 +34,6 @@ Under construction!
 
 |ID|Name|Value|
 |------|---|-----|
-|001|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
+|<img src="/images/slice.gif">|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
 |002|Super Fund<!-- .element: style="text-align:center;" -->|1,2280.00<!-- .element: style="text-align:right;" -->|
 |003|Big Savings Bank<!-- .element: style="text-align:center;" -->|430.00<!-- .element: style="text-align:right;" -->|
