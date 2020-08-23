@@ -9,8 +9,8 @@ Coming soon
 <table style="width:100%">
   <caption>Publications</caption>
   <tr>
-    <th>Image1</th>
-    <th>Publication1</th>
+    <td>Image1</th>
+    <td>Publication1</th>
   </tr>
   <tr>
     <td>Image2</td>
