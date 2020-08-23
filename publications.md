@@ -20,7 +20,7 @@ Under construction!
 </thead>
 <tbody>
 <tr>
-<td markdown="span" valign="top"><img src="/images/slice.gif"></td>
+<td valign="top"><img src="/images/slice.gif"></td>
 <td valign="middle">Accelerated Structural Prediction of Flexible Protein–Ligand Complexes: The SLICE Method</td>
 </tr>
 <tr>
